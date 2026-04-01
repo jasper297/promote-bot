@@ -97,7 +97,8 @@ Warm leads: Jay Hormozi, StreetBeefs, Fafa Fitness ($5K agreed), 1M+ gambling in
 
 All-time: ~$271,000 across 75+ campaigns
 - Pre-March 2026: $147,062 (41 campaigns)
-- March 2026: $123,933 (34 campaigns)
+- March 2026: $92,533 (35 campaigns)
+- February 2026 (Sasoon): $22,260 in sales, $772 commission
 - Average campaign size: ~$3,500
 - Platform fees earned (historical): ~$27,263
 
@@ -161,3 +162,117 @@ Best proof point: Central Cee — 57M views for $2,500 = $0.044 CPM (vs industry
 "How do payouts work?" → CPM/fixed/hybrid. Paid in Solana USDC. Pending → available after approval.
 
 "Who owns [area]?" → Product: Aimen | Marketing: Jasper + Sasoon | Dev: Rohan + Moe | Frontend: Dominik | Design: Izhar
+
+---
+
+## CAMPAIGN OVERVIEW (ALL HISTORICAL CAMPAIGNS)
+
+This is the full campaign-by-campaign data from the Campaign Tracking Sheet. Format: Campaign | Client | Total Budget | Fee | Creator Budget | Received | Status | Profit/Notes
+
+| Date | Campaign | Client | Total Budget | Fee | Creator Budget | Received | Invoice Status | Paid to Creators | Referrer Comm | Profit | Campaign Status |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2025-10-24 | Tyler Story Boost Campaign | Tyler | $2,400 | $400 | $2,000 | $2,400 | - | $2,000 | $0 | $400 | Complete |
+| 2025-10-29 | Bombastic Clipping | Edmond | $1,500 | $300 | $1,200 | $1,500 | - | $1,200 | $0 | $300 | Complete |
+| - | God Aura Campaign | Drew Myers | $3,000 | $500 | $2,500 | $3,000 | - | $2,500 | $0 | $500 | Complete |
+| - | Community Awareness | James Hamilton | $3,600 | $600 | $3,000 | $3,600 | - | $0 | - | $3,600 | Complete |
+| - | Jared Leto | Brandon Gill | $3,500 | $700 | $2,800 | $3,500 | - | $0 | $140 | - | Complete |
+| - | Community Awareness (pt2) | James Hamilton | $4,800 | $800 | $4,000 | $4,800 | - | - | - | - | Complete |
+| - | Sinparty | Sinparty/KingPlace | $6,000 | $1,000 | $5,000 | $6,000 | - | - | - | - | - |
+| - | Sienna Spiro | Noah / Capitol | $4,000 | $0 | $4,000 | $4,000 | - | - | - | - | - |
+| - | Vd Audio Campaign | LV8 | $2,000 | $400 | $1,600 | $2,000 | - | - | - | - | - |
+| - | Fanatics | LV8 | $5,000 | $1,000 | $4,000 | $5,000 | - | - | - | - | - |
+| - | Rio Da Yung OG | Harrison / Empire | $3,000 | $0 | $3,000 | $3,000 | - | - | - | - | - |
+| - | SLS Sydney | LV8 | $2,000 | $400 | $1,600 | $2,000 | - | - | - | - | - |
+| - | Apolone Audio | Apolone | $600 | $100 | $500 | $600 | - | - | - | - | - |
+| - | Private Campaign - Dubblegg | James Hamilton | $5,600 | $1,600 | $400 | $5,600 | - | - | - | - | - |
+| - | Davina Leone | LV8 | $1,500 | $300 | $1,200 | $1,500 | - | - | - | - | - |
+| - | Private Campaign - Dubblegg (pt2) | James Hamilton | $5,400 | $900 | $4,500 | $5,400 | - | - | - | - | - |
+| - | Mercy Movie Clipping | Floodify | $2,000 | $400 | $1,600 | $2,000 | - | - | - | - | - |
+| - | Superform | Superform | $9,000 | $1,500 | $7,500 | $9,000 | - | - | - | - | - |
+| - | Apolone Audio (pt2) | Apolone | $6,960 | $1,160 | $5,800 | $6,960 | - | - | - | - | - |
+| - | NOVIG | Findclout | $1,000 | $0 | $1,000 | $1,000 | - | - | - | - | - |
+| - | Trim - Boat Dance | GetEngaged | $3,500 | $700 | $2,800 | $3,500 | - | - | - | - | - |
+| - | Poly Market 1 | Findclout | $1,650 | $132.24 | $1,517.76 | $1,650 | - | - | - | - | - |
+| - | Angry Balls | Coreffect | $2,400 | $400 | $2,000 | $2,400 | - | - | - | - | - |
+| - | Polymarket 2 | Findclout | $1,950 | $203.41 | $1,746.59 | $1,950 | - | - | - | - | - |
+| - | Kun - Colder | LV8 | $1,500 | $300 | $1,200 | $1,500 | Sent | - | - | - | - |
+| - | Underdog - The Arena | LV8 | $3,500 | $700 | $2,800 | $3,500 | Sent | - | - | - | - |
+| - | j. Cole Sports Edits | GetEngaged | $3,500 | $700 | $2,800 | $3,500 | Sent | - | - | - | - |
+| - | Apolone, 10 Extra Campaigns | Apolone | $4,200 | $700 | $3,500 | $4,200 | - | - | - | - | - |
+| - | Polymarket Tweet Memes 3 | Findclout | $5,000 | $744.55 | $4,255.45 | $5,000 | - | - | - | - | - |
+| - | Manscaped | Bolismedia | $8,000 | $0 | $8,000 | $8,000 | - | - | - | - | - |
+| - | No Na | LV8 | $7,500 | $1,500 | $6,000 | $6,000 | - | - | - | - | - |
+| - | Trim - Boat Dance pt2 | GetEngaged | $3,500 | $700 | $2,800 | $3,500 | Sent | - | - | - | - |
+| - | Sienna Spiro pt2 | Noah / Capitol | $4,800 | $800 | $4,000 | $4,800 | - | - | - | - | - |
+| - | Spartans | Bolis Media | $11,093.67 | $6,115.24 | $4,978.43 | $11,093.67 | - | - | - | - | - |
+| - | EvoTwinz | EvoTwinz | $1,795 | $295 | $1,500 | $1,795 | - | - | - | - | - |
+| - | Venice | Findclout | $629 | $129 | $500 | $629 | - | - | - | - | - |
+| - | Mindgrasp | Findclout | $1,785 | $285 | $1,500 | $1,785 | - | - | - | - | - |
+| - | Father of Peace | Glanceduk | $2,398.87 | $398.87 | $2,000 | $2,398.87 | - | - | - | - | - |
+| - | Nettspend | LV8 | $1,000 | $0 | $1,000 | $0 | Sent | - | - | - | - |
+| - | Cantina | Masterhooks | $4,200 | $700 | $3,500 | $4,200 | - | - | - | - | - |
+| - | The Bride! | ClipCentral | $2,400 | $400 | $2,000 | $2,400 | - | $100 | - | - | - |
+| Feb 26th | Hardy Podcast | GetEngaged | $2,100 | $0 | $2,100 | $2,100 | Sent | - | - | - | - |
+
+---
+
+## FEBRUARY 2026 CLIENTS (SASOON)
+
+Sasoon's February book of business. Feb total sales: $22,260 | Feb commission: $772
+
+| Campaign | Client | Total Budget | Fee | Creator Budget | Received | Commission |
+|---|---|---|---|---|---|---|
+| jcole | GetEngaged | $3,500 | $700 | $2,800 | $3,500 | $140 |
+| Trim Dance | GetEngaged | $3,500 | $700 | $2,800 | $3,500 | $140 |
+| Trim AI Memes | GetEngaged | $3,500 | $700 | $2,800 | $3,500 | $140 |
+| Evo Twinz Audio | EvoTwinz | $1,860 | $360 | $1,500 | $1,860 | $72 |
+| Fatherofpeace | Glanceduk | $2,400 | $400 | $2,000 | $2,400 | $100 |
+| Audio Campaign | Tory WGE | $1,200 | $200 | $1,000 | $1,200 | $40 |
+| Hardy Podcast | GetEngaged | $2,100 | $0 | $2,100 | $2,100 | $0 |
+| Audio Campaign (pt2) | Tory WGE | $1,200 | $200 | $1,000 | $1,200 | $40 |
+| First Trump Campaign | Clipsquare | $3,000 | $500 | $2,500 | $3,000 | $100 |
+
+---
+
+## MARCH 2026 CAMPAIGNS
+
+Full March 2026 campaign data. March total: $92,533
+
+| Date | Campaign | Client | Total Budget | Fee | Creator Budget | Received | Invoice Status |
+|---|---|---|---|---|---|---|---|
+| Mar 1 | Okaye Zach pt 1 | Clipsquare | $7,800 | $1,300 | $6,500 | $7,800 | Sent |
+| Mar 2 | Okaye Zach pt 2 | Clipsquare | $3,600 | $600 | $3,000 | $3,600 | Sent |
+| Mar 3 | Big Truth | Tory (WGE) | $600 | $100 | $500 | $600 | - |
+| Mar 3 | Ming Leone | Tory (WGE) | $600 | $100 | $500 | $600 | - |
+| Mar 4 | Alysa Liu | GetEngaged | $2,100 | $0 | $2,100 | $0 | Sent |
+| Mar 4 | Suzi Q | Tory (WGE) | $600 | $100 | $500 | $600 | - |
+| Mar 4 | Boss Champs & Diamond | Tory (WGE) | $1,200 | $200 | $1,000 | $1,200 | - |
+| Mar 5 | Chach Audio (Mute the Giant) | Chach | $1,500 | $300 | $1,200 | $1,500 | - |
+| Mar 5 | Okaye Campaign pt 3 | Clipsquare | $3,600 | $600 | $3,000 | $3,600 | Sent |
+| Mar 5 | Kutt LOGO | Kuttbett | $3,600 | $600 | $3,000 | $3,600 | - |
+| Mar 6 | Dhee | Tory (WGE) | $600 | $100 | $500 | $600 | - |
+| Mar 7 | Michael Porter Pod | Clipsquare | $3,600 | $600 | $3,000 | $3,600 | - |
+| Mar 8 | Politico | Dubble G | $5,400 | $900 | $4,500 | $5,400 | - |
+| Mar 9 | Bigxthaplug & Rosama | GetEngaged | $2,250 | $450 | $1,800 | $0 | Sent |
+| Mar 10 | Sneako Livestream | Clipsquare | $3,600 | $600 | $3,000 | $3,600 | - |
+| Mar 10 | Private #7 | Clipsquare | $3,600 | $600 | $3,000 | $3,600 | - |
+| Mar 17 | Mario Movie | GetEngaged | $20,000 | $4,000 | $16,000 | $0 | Sent |
+| Mar 18 | Facebook Political | Clipsquare | $2,400 | $400 | $2,000 | $2,500 | - |
+| Mar 20 | Higgsfield | Higgsfield AI | $10,000 | $2,000 | $8,000 | $9,588.65 | - |
+| Mar 23 | Apolone Private Audios | Apolone | $6,180 | $1,100 | $5,100 | $0 | Sent |
+| Mar 23 | March Madness Edits | GetEngaged | $4,000 | $800 | $3,510 | $0 | - |
+| Mar 3 | Quizard | LV8 | $1,103 | $183 | $919 | $0 | - |
+| Mar 26 | Kutt Logo pt 2 | Kuttbett | $1,400 | $280 | $1,120 | $0 | Sent |
+| Mar 26 | Forgotten Island Trailer | GetEngaged | $3,500 | $280 | $700 | $0 | Sent |
+| Mar 27 | Suki Waterhouse | GetEngaged | $2,100 | $420 | $1,680 | $0 | - |
+| Mar 27 | RNBOI Audio | GetEngaged | $3,000 | $600 | $2,400 | $0 | - |
+| Mar 27 | March Madness Edits pt 2 | GetEngaged | $500 | $100 | $400 | $0 | - |
+| Mar 30 | Steven Roho Audio | Alex AWD.REC | $3,600 | $600 | $3,000 | $0 | Sent |
+| Mar 31 | Mario Movie Private pt2 | GetEngaged | $5,000 | $1,000 | $4,000 | $0 | - |
+| Mar 31 | March Madness Edits pt 3 | GetEngaged | $700 | $140 | $560 | $0 | - |
+| Mar 31 | Aziedontexist | Atlantic | $1,800 | $360 | $1,440 | $0 | Sent |
+| - | Jenna AI | Jash | $6,000 | $1,000 | $5,000 | $0 | Sent |
+| - | Mindgrasp | Mindgrasp | $3,600 | $600 | $3,600 | $10 | - |
+| - | Fent Campaign | Clipsquare | $4,800 | $800 | $4,800 | $0 | - |
+
+Note: Several March campaigns (Mario Movie $20K, GetEngaged campaigns) show $0 received — invoices sent but payment pending as of data export.
